@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
-  Type="WebHelp2"
+  Type="DITA"
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
